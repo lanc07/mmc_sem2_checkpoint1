@@ -1,1 +1,1 @@
-# mmc_sem2_checkpoint1
+# Checkpoint - modulagem matemática e computacional
